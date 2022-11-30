@@ -66,4 +66,9 @@
         </div>
     </form>
 
+    <footer>
+        <div class="container">
+            <p>&copy; test tecnico, aspirante: David Iglesias</p>
+        </div>
+    </footer>
 @endsection
