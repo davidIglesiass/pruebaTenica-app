@@ -1,0 +1,33 @@
+html{
+    scroll-behavior: smooth;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#form-index {
+    text-align: left;
+    padding: 20px;
+    max-width: 600px;
+    margin: 30px auto;
+    border: 1px solid #ddd;
+    box-shadow: 1px 3px 5px rgba(0, 0, 0, 5);
+}
+
+#form-index input{
+    justify-content: flex-start;
+    text-align: justify;
+}
+
+#tip-form{
+    height: 100px;
+}
+
+#data{
+    text-align: left;
+    padding: 20px;
+    max-width: 600px;
+    margin: 30px 30px;
+    border: 1px solid #ddd;
+    box-shadow: 1px 3px 5px rgba(0, 0, 0, 5);
+    
+}
+
